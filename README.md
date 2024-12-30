@@ -2,6 +2,8 @@
 
 This repository contains code and resources for image classification of marine animals using Convolutional Neural Networks (CNNs). The project includes training multiple CNN architectures and fine-tuning a pre-trained model (VGG16) for classifying images of dolphins, jellyfish, sea rays, starfish, and whales.
 
+Retport: https://docs.google.com/document/d/1sG7MFP-vGJQSA4bzTYRmSkPZbOIXmrIMB7eYSW0Kh_0/edit?usp=sharing
+
 ## Features
 
 - Implementation of two custom CNN architectures.
